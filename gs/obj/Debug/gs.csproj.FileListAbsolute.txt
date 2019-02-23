@@ -1,0 +1,14 @@
+C:/Users/Alexander/source/repos/gs/gs/bin/Debug/gs.exe.config
+C:/Users/Alexander/source/repos/gs/gs/bin/Debug/gs.exe
+C:/Users/Alexander/source/repos/gs/gs/bin/Debug/gs.pdb
+C:/Users/Alexander/source/repos/gs/gs/obj/Debug/gs.csprojAssemblyReference.cache
+C:/Users/Alexander/source/repos/gs/gs/obj/Debug/gs.csproj.CoreCompileInputs.cache
+C:/Users/Alexander/source/repos/gs/gs/obj/Debug/gs.exe
+C:/Users/Alexander/source/repos/gs/gs/obj/Debug/gs.pdb
+/Users/alexander/Desktop/guess my Num/gs/bin/Debug/gs.exe.config
+/Users/alexander/Desktop/guess my Num/gs/bin/Debug/gs.exe
+/Users/alexander/Desktop/guess my Num/gs/bin/Debug/gs.pdb
+/Users/alexander/Desktop/guess my Num/gs/obj/Debug/gs.csprojAssemblyReference.cache
+/Users/alexander/Desktop/guess my Num/gs/obj/Debug/gs.csproj.CoreCompileInputs.cache
+/Users/alexander/Desktop/guess my Num/gs/obj/Debug/gs.exe
+/Users/alexander/Desktop/guess my Num/gs/obj/Debug/gs.pdb
